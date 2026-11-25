@@ -24,7 +24,7 @@ Each mission was undertaken individually on my macOS computer, verified through 
 | Mission | Title | Description | Status | README Link |
 |:---:|:---|:---|:---:|:---:|
 | **0** | Repository & Workspace Setup | Environment checks, project folder structure, and Git initialization | Complete | [Mission 0 README](mission-00-setup/README.md) |
-| **1** | Computer Fundamentals & IPOS | Tracing input-process-output-storage, hardware/software taxonomy, and everyday systems | Pending | [Mission 1 README](mission-01-computer-basics/README.md) |
+| **1** | Computer Fundamentals & IPOS | Tracing input-process-output-storage, hardware/software taxonomy, and everyday systems | Complete | [Mission 1 README](mission-01-computer-basics/README.md) |
 | **2** | Terminal & File Management | Command-line operations, safe practice folder, flags, pipes, and package managers | Pending | [Mission 2 README](mission-02-terminal/README.md) |
 | **3** | Operating System & Permissions | Kernel inspection, process listing, PIDs, storage, path resolution, and permission bits | Pending | [Mission 3 README](mission-03-operating-system/README.md) |
 | **4** | How Programs Run | Running `hello.py` and comparing compilation vs. interpretation models | Pending | [Mission 4 README](mission-04-programs/README.md) |
