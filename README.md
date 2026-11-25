@@ -27,7 +27,7 @@ Each mission was undertaken individually on my macOS computer, verified through 
 | **1** | Computer Fundamentals & IPOS | Tracing input-process-output-storage, hardware/software taxonomy, and everyday systems | Complete | [Mission 1 README](mission-01-computer-basics/README.md) |
 | **2** | Terminal & File Management | Command-line operations, safe practice folder, flags, pipes, and package managers | Complete | [Mission 2 README](mission-02-terminal/README.md) |
 | **3** | Operating System & Permissions | Kernel inspection, process listing, PIDs, storage, path resolution, and permission bits | Complete | [Mission 3 README](mission-03-operating-system/README.md) |
-| **4** | How Programs Run | Running `hello.py` and comparing compilation vs. interpretation models | Pending | [Mission 4 README](mission-04-programs/README.md) |
+| **4** | How Programs Run | Running `hello.py` and comparing compilation vs. interpretation models | Complete | [Mission 4 README](mission-04-programs/README.md) |
 | **5** | Number Systems, Python & Data | Step-by-step manual conversions, Python verification, and `number_converter.py` | Pending | [Mission 5 README](mission-05-numbers-data/README.md) |
 | **6** | Git, GitHub & Collaboration | Core Git workflow, branching (`update-about`), Pull Request, and command glossary | Pending | [Mission 6 README](mission-06-git-github/README.md) |
 | **7** | Computer Networks | Network classifications, DNS, router diagnostics, and the 7-step website opening lifecycle | Pending | [Mission 7 README](mission-07-networking/README.md) |
