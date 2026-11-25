@@ -1,0 +1,2 @@
+System initialized: Log entry 1
+System update: Log entry 2
