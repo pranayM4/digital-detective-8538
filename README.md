@@ -35,6 +35,15 @@ Each mission was undertaken individually on my macOS computer, verified through 
 
 ---
 
+## My Learning
+
+During the execution of these investigative missions, I gained practical understanding of three core concepts:
+1. **The Power of the Command Line:** I learned that GUI desktop interfaces are simply visual abstractions over operating system system calls. Operating through the Terminal with commands like `pwd`, `ls -lh`, and Unix pipes (`|`) allows for precise, automated file and process management without the overhead of window management.
+2. **Positional Number Systems & Binary Representation:** By working through manual successive divisions and power expansions, I realized how hardware digital circuits represent all data (numbers, text, and instructions) using binary logic states (bits), and how hexadecimal provides a clean human-readable notation for bytes.
+3. **Version Control Discipline:** Git is not just for backup storage; it creates a verifiable, immutable history of project progression. Isolating changes in dedicated branches like `update-about` protects the production codebase (`main`) and enables structured code review through Pull Requests.
+
+---
+
 ## Repository Commitment Policy
 
 In strict accordance with the assignment guidelines:
